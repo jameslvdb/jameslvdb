@@ -1,6 +1,6 @@
 ## Howdy! 👋
 
-I'm [James](https://james.vanderburg.org)! I'm a software engineer at the [PGA of America](https://www.pga.com/), using Ruby on Rails to build the awesome [PGA Coach](https://www.pga.coach/) platform. 
+I'm [James](https://james.vanderburg.org)! I'm a software engineer at the [PGA of America](https://www.pga.com/).
 
 <!--
 **jameslvdb/jameslvdb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
